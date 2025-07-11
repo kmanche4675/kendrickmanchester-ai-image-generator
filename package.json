@@ -1,0 +1,26 @@
+{
+  "name": "imagegenerator",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmanche4675/kendrickmanchester-ai-image-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmanche4675/kendrickmanchester-ai-image-generator/issues"
+  },
+  "homepage": "https://github.com/kmanche4675/kendrickmanchester-ai-image-generator#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
