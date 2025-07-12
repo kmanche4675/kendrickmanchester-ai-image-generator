@@ -81,7 +81,7 @@ MIT
 
 ## 📬 Contact
 
-LinkedIn www.linkedin.com/in/kendrick-manchester  
+[LinkedIn](https://www.linkedin.com/in/kendrick-manchester)  
 Email: kmanch3@lsu.edu
 
 ---
