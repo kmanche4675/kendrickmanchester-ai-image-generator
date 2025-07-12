@@ -62,7 +62,9 @@ API key is securely handled on the backend.
 
 ## 📸 Demo
 
-_Add a screenshot here if you have one!_
+Stormtroopers with an Infinity Gauntlet
+<img width="1024" height="1024" alt="Kendrick Manchester's AI Image Generator" src="https://github.com/user-attachments/assets/5344a9d7-2996-4ae7-b220-6002a0da5c3b" />
+
 
 ---
 
@@ -72,7 +74,7 @@ MIT
 
 ## 🌱 Future Improvements
 
-- Add unit tests for backend
+- Add more unit tests for backend
 - Deploy live demo
 - Add user authentication
 - Add a dark/light mode toggle for the UI
