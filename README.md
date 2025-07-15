@@ -72,6 +72,8 @@ test('Validates image prompt is defined', () => {
   expect(prompt).toBeDefined();
 });
 
+---
+
 ## 📄 License
 
 MIT
