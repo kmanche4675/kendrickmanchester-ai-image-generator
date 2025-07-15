@@ -1,8 +1,6 @@
 # Kendrick Manchester's AI Image Generator
 
-A web app that generates images from text prompts using the OpenAI DALL-E API.  
-Built with Node.js, Express, and vanilla JavaScript.  
-API key is securely handled on the backend.
+Turn words into visuals—this app uses OpenAI's DALL·E API to generate original images from text prompts, powered by Node.js and Express.
 
 ---
 
