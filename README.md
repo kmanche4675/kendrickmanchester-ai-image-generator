@@ -60,9 +60,8 @@ Turn words into visuals—this app uses OpenAI's DALL·E API to generate origina
 
 ## 📸 Demo
 
-Stormtroopers with an Infinity Gauntlet
 <img width="1024" height="1024" alt="Kendrick Manchester's AI Image Generator" src="https://github.com/user-attachments/assets/5344a9d7-2996-4ae7-b220-6002a0da5c3b" />
-
+AI-generated via user prompt: "Stormtroopers with an Infinity Gauntlet"
 
 ---
 
