@@ -65,6 +65,13 @@ AI-generated via user prompt: "Stormtroopers with an Infinity Gauntlet"
 
 ---
 
+## 🧪 Sample Unit Test
+
+```js
+test('Validates image prompt is defined', () => {
+  expect(prompt).toBeDefined();
+});
+
 ## 📄 License
 
 MIT
