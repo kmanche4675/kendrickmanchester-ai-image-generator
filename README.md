@@ -64,7 +64,9 @@ Turn words into visuals—this app uses OpenAI's DALL·E API to generate origina
 AI-generated via user prompt: "Stormtroopers with an Infinity Gauntlet"
 
 ---
-
+test('Validates image prompt is defined', () => {
+  expect(prompt).toBeDefined();
+});
 ---
 
 ## 📄 License
