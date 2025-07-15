@@ -58,6 +58,13 @@ Turn words into visuals—this app uses OpenAI's DALL·E API to generate origina
 
 ---
 
+## 🧪 Sample Unit Test
+
+```js
+test('Validates image prompt is defined', () => {
+  expect(prompt).toBeDefined();
+});
+
 ## 📸 Demo
 
 <img width="1024" height="1024" alt="Kendrick Manchester's AI Image Generator" src="https://github.com/user-attachments/assets/5344a9d7-2996-4ae7-b220-6002a0da5c3b" />
