@@ -75,7 +75,7 @@ MIT
 - Deploy live demo
 - Add user authentication
 - Add a dark/light mode toggle for the UI
-- 🔧 Live demo coming soon via Render
+- Live demo coming soon
 
 ## 📬 Contact
 
