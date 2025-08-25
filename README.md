@@ -1,6 +1,6 @@
 # Kendrick Manchester's AI Image Generator
 
-Turn words into visuals—this app uses OpenAI's DALL·E API to generate original images from text prompts, powered by Node.js and Express.
+Turn words into visuals. this app uses OpenAI's DALL·E API to generate original images from text prompts, powered by Node.js and Express.
 
 ---
 
